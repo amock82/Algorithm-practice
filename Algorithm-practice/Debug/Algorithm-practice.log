@@ -1,7 +1,9 @@
-﻿  덩치.cpp
-  분해합.cpp
-  블랙잭.cpp
-  영화감독 숌.cpp
-  체스판 다시 칠하기.cpp
+﻿  영화감독 숌.cpp
+C:\Users\user\source\repos\Algorithm-practice\Algorithm-practice\Algorithm-practice\브루트 포스\영화감독 숌.cpp(13,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  수 정렬하기.cpp
+C:\Users\user\source\repos\Algorithm-practice\Algorithm-practice\Algorithm-practice\정렬\수 정렬하기.cpp(8,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  수 정렬하기2.cpp
   코드를 생성하고 있습니다...
-  Algorithm-practice.vcxproj -> C:\Users\user\source\repos\Algorithm-practice\Algorithm-practice\Debug\Algorithm-practice.exe
+수 정렬하기2.obj : error LNK2005: "void __cdecl sort(class std::vector<int,class std::allocator<int> > &)" (?sort@@YAXAAV?$vector@HV?$allocator@H@std@@@std@@@Z)이(가) 수 정렬하기.obj에 이미 정의되어 있습니다.
+수 정렬하기2.obj : error LNK2005: _main이(가) 수 정렬하기.obj에 이미 정의되어 있습니다.
+C:\Users\user\source\repos\Algorithm-practice\Algorithm-practice\Debug\Algorithm-practice.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

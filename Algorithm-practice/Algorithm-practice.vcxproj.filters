@@ -13,25 +13,37 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\브루트 포스">
-      <UniqueIdentifier>{06c81fdd-cc36-4ed1-a859-e92feca0b656}</UniqueIdentifier>
+    <Filter Include="소스 파일\단계별로 풀어보기">
+      <UniqueIdentifier>{252a43c0-eccc-44b5-9970-4db0644c4897}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\단계별로 풀어보기\브루트 포스">
+      <UniqueIdentifier>{b21516ab-33d0-439a-9e7c-ff16e2ccc679}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\단계별로 풀어보기\정렬">
+      <UniqueIdentifier>{a671b423-5cdc-4ebf-85c4-8f292c3a9bac}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="브루트 포스\덩치.cpp">
-      <Filter>소스 파일\브루트 포스</Filter>
+      <Filter>소스 파일\단계별로 풀어보기\브루트 포스</Filter>
     </ClCompile>
     <ClCompile Include="브루트 포스\분해합.cpp">
-      <Filter>소스 파일\브루트 포스</Filter>
+      <Filter>소스 파일\단계별로 풀어보기\브루트 포스</Filter>
     </ClCompile>
     <ClCompile Include="브루트 포스\블랙잭.cpp">
-      <Filter>소스 파일\브루트 포스</Filter>
+      <Filter>소스 파일\단계별로 풀어보기\브루트 포스</Filter>
     </ClCompile>
     <ClCompile Include="브루트 포스\영화감독 숌.cpp">
-      <Filter>소스 파일\브루트 포스</Filter>
+      <Filter>소스 파일\단계별로 풀어보기\브루트 포스</Filter>
     </ClCompile>
     <ClCompile Include="브루트 포스\체스판 다시 칠하기.cpp">
-      <Filter>소스 파일\브루트 포스</Filter>
+      <Filter>소스 파일\단계별로 풀어보기\브루트 포스</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬\수 정렬하기.cpp">
+      <Filter>소스 파일\단계별로 풀어보기\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬\수 정렬하기2.cpp">
+      <Filter>소스 파일\단계별로 풀어보기\정렬</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
