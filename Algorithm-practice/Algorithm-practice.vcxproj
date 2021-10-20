@@ -19,6 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="그리디 알고리즘\ATM.cpp" />
+    <ClCompile Include="그리디 알고리즘\동전 0.cpp" />
+    <ClCompile Include="그리디 알고리즘\잃어버린 괄호.cpp" />
+    <ClCompile Include="그리디 알고리즘\주유소.cpp" />
+    <ClCompile Include="그리디 알고리즘\회의실 배정.cpp" />
     <ClCompile Include="브루트 포스\덩치.cpp" />
     <ClCompile Include="브루트 포스\분해합.cpp" />
     <ClCompile Include="브루트 포스\블랙잭.cpp" />

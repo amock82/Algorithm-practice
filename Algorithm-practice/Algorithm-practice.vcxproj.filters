@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\단계별로 풀어보기\정렬">
       <UniqueIdentifier>{a671b423-5cdc-4ebf-85c4-8f292c3a9bac}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\단계별로 풀어보기\그리디 알고리즘">
+      <UniqueIdentifier>{3d3198c9-24ff-4f18-a623-46fa2124e3d0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="브루트 포스\덩치.cpp">
@@ -44,6 +47,21 @@
     </ClCompile>
     <ClCompile Include="정렬\수 정렬하기2.cpp">
       <Filter>소스 파일\단계별로 풀어보기\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="그리디 알고리즘\동전 0.cpp">
+      <Filter>소스 파일\단계별로 풀어보기\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="그리디 알고리즘\회의실 배정.cpp">
+      <Filter>소스 파일\단계별로 풀어보기\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="그리디 알고리즘\ATM.cpp">
+      <Filter>소스 파일\단계별로 풀어보기\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="그리디 알고리즘\잃어버린 괄호.cpp">
+      <Filter>소스 파일\단계별로 풀어보기\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="그리디 알고리즘\주유소.cpp">
+      <Filter>소스 파일\단계별로 풀어보기\그리디 알고리즘</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void sort(vector<int>& value)
+void Sort(vector<int>& value)
 {
 	for (int i = 1; i < value.size(); i++)
 	{
@@ -34,7 +34,7 @@ int main()
 		cin >> input[i];
 	}
 
-	sort(input);
+	Sort(input);
 
 	for (int i = 0; i < N; i++)
 	{
