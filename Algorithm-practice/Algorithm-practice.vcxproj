@@ -24,6 +24,10 @@
     <ClCompile Include="그리디 알고리즘\잃어버린 괄호.cpp" />
     <ClCompile Include="그리디 알고리즘\주유소.cpp" />
     <ClCompile Include="그리디 알고리즘\회의실 배정.cpp" />
+    <ClCompile Include="분할정복\곱셈.cpp" />
+    <ClCompile Include="분할정복\색종이 만들기.cpp" />
+    <ClCompile Include="분할정복\종이의 개수.cpp" />
+    <ClCompile Include="분할정복\쿼드트리.cpp" />
     <ClCompile Include="브루트 포스\덩치.cpp" />
     <ClCompile Include="브루트 포스\분해합.cpp" />
     <ClCompile Include="브루트 포스\블랙잭.cpp" />
@@ -37,6 +41,7 @@
     <ProjectGuid>{42DC46E7-9DF2-4D92-924C-5C1D50DDB26D}</ProjectGuid>
     <RootNamespace>Algorithmpractice</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Algorithm-practice</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

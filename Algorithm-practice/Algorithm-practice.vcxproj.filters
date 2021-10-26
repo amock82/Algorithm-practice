@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\단계별로 풀어보기\그리디 알고리즘">
       <UniqueIdentifier>{3d3198c9-24ff-4f18-a623-46fa2124e3d0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\단계별로 풀어보기\분할정복">
+      <UniqueIdentifier>{9ad699d8-36d5-426a-8491-23443f69fb6d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="브루트 포스\덩치.cpp">
@@ -62,6 +65,18 @@
     </ClCompile>
     <ClCompile Include="그리디 알고리즘\주유소.cpp">
       <Filter>소스 파일\단계별로 풀어보기\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="분할정복\색종이 만들기.cpp">
+      <Filter>소스 파일\단계별로 풀어보기\분할정복</Filter>
+    </ClCompile>
+    <ClCompile Include="분할정복\쿼드트리.cpp">
+      <Filter>소스 파일\단계별로 풀어보기\분할정복</Filter>
+    </ClCompile>
+    <ClCompile Include="분할정복\종이의 개수.cpp">
+      <Filter>소스 파일\단계별로 풀어보기\분할정복</Filter>
+    </ClCompile>
+    <ClCompile Include="분할정복\곱셈.cpp">
+      <Filter>소스 파일\단계별로 풀어보기\분할정복</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
