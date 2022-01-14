@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\단계별로 풀어보기\분할정복">
       <UniqueIdentifier>{9ad699d8-36d5-426a-8491-23443f69fb6d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\단계별로 풀어보기\동적 계획법 1">
+      <UniqueIdentifier>{500f750d-bb2b-48e2-a1d1-74d611276bf2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="브루트 포스\덩치.cpp">
@@ -77,6 +80,12 @@
     </ClCompile>
     <ClCompile Include="분할정복\곱셈.cpp">
       <Filter>소스 파일\단계별로 풀어보기\분할정복</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치 함수.cpp">
+      <Filter>소스 파일\단계별로 풀어보기\동적 계획법 1</Filter>
+    </ClCompile>
+    <ClCompile Include="신나는 함수 실행.cpp">
+      <Filter>소스 파일\단계별로 풀어보기\동적 계획법 1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

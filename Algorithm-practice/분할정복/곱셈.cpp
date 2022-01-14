@@ -5,6 +5,7 @@ using namespace std;
 
 long long int A, B, C;
 
+/*
 long long int Remainder(int x, int y)
 {
 	if (y == 0)
@@ -30,3 +31,5 @@ int main()
 
 	return 0;
 }
+
+*/
