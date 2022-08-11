@@ -31,6 +31,7 @@ int Functuin(int a, int b, int c)
 	return w[a][b][c];
 }
 
+/*
 int main()
 {
 	while (1)
@@ -47,3 +48,4 @@ int main()
 
 	return 0;
 }
+*/
