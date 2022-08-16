@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <vector>
 #include <string>
@@ -71,7 +72,7 @@ int Check(vector<string> input, int width, int height)
 	return min;
 }
 
-/*
+
 int main()
 {
 	int N, M;

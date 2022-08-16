@@ -2,7 +2,7 @@
 #include <vector>
 
 using namespace std;
-
+/*
 void Sort(vector<int>& value)
 {
 	for (int i = 1; i < value.size(); i++)
@@ -19,7 +19,7 @@ void Sort(vector<int>& value)
 	}
 }
 
-/*
+
 int main()
 {
 	int N;

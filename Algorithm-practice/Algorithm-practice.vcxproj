@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="String Set.cpp" />
     <ClCompile Include="그리디 알고리즘\ATM.cpp" />
     <ClCompile Include="그리디 알고리즘\동전 0.cpp" />
     <ClCompile Include="그리디 알고리즘\잃어버린 괄호.cpp" />

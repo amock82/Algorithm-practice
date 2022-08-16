@@ -93,5 +93,8 @@
     <ClCompile Include="집합과 맵\Number Card.cpp">
       <Filter>소스 파일\단계별로 풀어보기\집합과 맵</Filter>
     </ClCompile>
+    <ClCompile Include="String Set.cpp">
+      <Filter>소스 파일\단계별로 풀어보기\집합과 맵</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

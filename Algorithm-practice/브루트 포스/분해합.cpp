@@ -1,6 +1,7 @@
 #include <iostream>
 #include <math.h>
 
+/*
 using namespace std;
 
 int Count(int N)
@@ -16,7 +17,6 @@ int Count(int N)
 	return cnt;
 }
 
-/*
 int main()
 {
 	int N;

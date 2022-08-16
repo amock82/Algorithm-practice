@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <vector>
 #include <string>
@@ -42,7 +43,7 @@ int Search(int N)
 	}
 }
 
-/*
+
 int main()
 {
 	int N;
